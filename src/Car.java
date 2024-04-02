@@ -38,7 +38,7 @@ class Car {
     public String getColor() {
         return color;
     }
-
+   //test
     public double getPrice() {
         return price;
     }
